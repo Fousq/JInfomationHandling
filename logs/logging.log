@@ -1,0 +1,4 @@
+[DEBUG] 2019-06-30 01:13:46 [main] AppTest:26 - DEGUB
+[INFO ] 2019-06-30 01:13:46 [main] AppTest:27 - INFO
+[ERROR] 2019-06-30 01:13:46 [main] AppTest:28 - ERROR
+[FATAL] 2019-06-30 01:13:46 [main] AppTest:29 - FATAL
