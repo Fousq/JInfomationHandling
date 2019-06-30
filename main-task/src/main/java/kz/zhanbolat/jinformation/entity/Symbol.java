@@ -1,9 +1,13 @@
 package kz.zhanbolat.jinformation.entity;
 
-public class Character implements TextComponent {
+public class Symbol implements TextComponent {
 	private char value;
 
-	public Character(char value) {
+	public Symbol() {
+		super();
+	}
+	
+	public Symbol(char value) {
 		this.value = value;
 	}
 	
