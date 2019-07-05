@@ -23,9 +23,11 @@ public class Lexeme implements TextComponent {
 	}
 	
 	@Override
-	public void show() {
+	public String build() {
+		StringBuilder builder = new StringBuilder();
 		for (TextComponent textComponent : textComponents) {
-			textComponent.show();
+			builder.append(textComponent.build());
 		}
+		return builder.toString();
 	}
 }

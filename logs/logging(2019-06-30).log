@@ -1,180 +1,193 @@
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - g
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - y
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - u
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:53 - .
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParser:41 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParser:41 - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-[DEBUG] 2019-07-01 01:23:20 [main] ParagraphParserTest:61 - [It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged., It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.]
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParser:41 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParser:41 - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:47 - [It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged., It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.]
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - I
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - h
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - u
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - r
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - v
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - v
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - d
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - y
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - f
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - v
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - c
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - u
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - r
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - ,
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - b
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - u
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - h
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - p
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - c
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - r
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - c
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - y
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - p
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - g
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - ,
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - r
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - m
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - g
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - y
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - u
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - c
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - h
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - g
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - d
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - .
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - I
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - n
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - g
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - b
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - i
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - h
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - d
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - f
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - c
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - h
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-01 01:23:40 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - s
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - f
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - L
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - I
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - p
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - s
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - u
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - .
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - 
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:53 - 
+
+[DEBUG] 2019-07-03 13:47:23 [main] ParagraphParserTest:61 - []
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParser:41 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParser:41 - 
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:47 - [It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged., 
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.]
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - L
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - p
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - l
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - ,
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - c
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - n
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - p
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - c
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - n
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - g
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - l
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - ,
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - n
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - n
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - y
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - 
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - 
+
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - p
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - n
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - v
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - n
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - l
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - b
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - l
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - g
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - n
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - l
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - q
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - y
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - ,
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - i
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - v
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - l
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - p
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - .
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - A
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - 
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - 
+
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - v
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
+[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o

@@ -34,6 +34,9 @@ public class ParagraphParser extends AbstractParser {
 		return matched;
 	}
 	
+	/**
+	 *Method was added to test the regex 
+	 */
 	public List<String> getMatchedString(String text) {
 		matcher = pattern.matcher(text);
 		List<String> matched = new ArrayList<>();

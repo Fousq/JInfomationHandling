@@ -20,8 +20,8 @@ public class Symbol implements TextComponent {
 	}
 
 	@Override
-	public void show() {
-		System.out.print(value);
+	public String build() {
+		return String.valueOf(value);
 	};
 	
 }

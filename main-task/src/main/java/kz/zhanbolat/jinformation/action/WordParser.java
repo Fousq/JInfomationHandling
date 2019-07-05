@@ -16,19 +16,24 @@ public class WordParser extends AbstractParser {
 	
 	@Override
 	public List<TextComponent> parse(String text) throws ParserException {
-		if (nextParser == null) {
-			throw new ParserException("Next parser is not setted.");
-		}
 		matcher = pattern.matcher(text);
 		List<TextComponent> matched = new ArrayList<>();
 		while (matcher.find()) {
-			Word word = new Word();
-			for (TextComponent textComponent : nextParser.parse(matcher.group())) {
-				word.add(textComponent);
-			}
-			matched.add(word);
+			matched.add(new Word(matcher.group()));
 		}
 		return matched;
 	}
-
+	
+	/**
+	 *Method was added to test the regex 
+	 */
+	public List<String> getMatched(String text) {
+		matcher = pattern.matcher(text);
+		List<String> matched = new ArrayList<>();
+		while (matcher.find()) {
+			matched.add(matcher.group());
+		}
+		return matched;
+	}
+	
 }

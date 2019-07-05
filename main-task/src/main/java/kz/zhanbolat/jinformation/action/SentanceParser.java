@@ -10,7 +10,7 @@ import kz.zhanbolat.jinformation.entity.TextComponent;
 import kz.zhanbolat.jinformation.exception.ParserException;
 
 public class SentanceParser extends AbstractParser {
-	private static final String SENTANCE_REGEX = "[^.]*\\.";
+	private static final String SENTANCE_REGEX = "[A-Z][^.]*\\.";
 	private static Pattern pattern = Pattern.compile(SENTANCE_REGEX);
 	private static Matcher matcher;
 	
@@ -30,5 +30,17 @@ public class SentanceParser extends AbstractParser {
 		}
 		return matched;
 	}
-
+	
+	/**
+	 *Method was added to test the regex 
+	 */
+	public List<String> getMatched(String text) {
+		matcher = pattern.matcher(text);
+		List<String> matched = new ArrayList<>();
+		while (matcher.find()) {
+			matched.add(matcher.group());
+		}
+		return matched;
+	}
+	
 }

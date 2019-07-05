@@ -15,11 +15,4 @@ public class SymbolTest {
 		character = 'n';
 	}
 	
-	@Test
-	public void characterShouldBeTheSame() {
-		Symbol ch = new Symbol(character);
-		ch.show();
-		assertTrue(ch.getValue() == character);
-	}
-	
 }

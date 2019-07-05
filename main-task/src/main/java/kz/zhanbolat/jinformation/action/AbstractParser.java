@@ -11,7 +11,7 @@ public abstract class AbstractParser {
 	public void setNextParser(AbstractParser nextParser) {
 		this.nextParser = nextParser;
 	}
-	
+
 	public abstract List<TextComponent> parse(String text) throws ParserException;
 	
 }
