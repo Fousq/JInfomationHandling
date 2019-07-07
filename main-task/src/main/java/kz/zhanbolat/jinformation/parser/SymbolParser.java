@@ -1,4 +1,4 @@
-package kz.zhanbolat.jinformation.action;
+package kz.zhanbolat.jinformation.parser;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,13 +8,13 @@ import java.util.regex.Pattern;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import kz.zhanbolat.jinformation.entity.Symbol;
 import kz.zhanbolat.jinformation.entity.TextComponent;
-import kz.zhanbolat.jinformation.entity.Word;
 
-public class WordParser implements AbstractParser {
-	private static Logger logger = LogManager.getLogger(WordParser.class);
-	public static final String WORD_REGEX = "\\w+";
-	private static Pattern pattern = Pattern.compile(WORD_REGEX);
+public class SymbolParser implements AbstractParser {
+	private static Logger logger = LogManager.getLogger(SymbolParser.class);
+	private static final String SYMBOL_REGEX = "[\\.,\\?!'-]+";
+	private static Pattern pattern = Pattern.compile(SYMBOL_REGEX);
 	private static Matcher matcher;
 	private static int counter = 0;
 	
@@ -23,8 +23,11 @@ public class WordParser implements AbstractParser {
 		matcher = pattern.matcher(text);
 		List<TextComponent> matched = new ArrayList<>();
 		while (matcher.find()) {
-			logger.info("Count of created words: " + ++counter);
-			matched.add(new Word(matcher.group()));
+			logger.info("Count of created symbols: " + ++counter);
+			char[] chars = matcher.group().toCharArray();
+			for (int i = 0; i < chars.length; i++) {
+				matched.add(new Symbol(chars[i]));
+			}
 		}
 		return matched;
 	}
@@ -36,7 +39,7 @@ public class WordParser implements AbstractParser {
 		matcher = pattern.matcher(text);
 		List<String> matched = new ArrayList<>();
 		while (matcher.find()) {
-			matched.add(matcher.group());
+			matched.add(String.valueOf(matcher.group().charAt(0)));
 		}
 		return matched;
 	}

@@ -1,184 +1,148 @@
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - o
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - o
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - n
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - l
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - y
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - f
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - i
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - v
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - c
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - n
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - u
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - r
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - i
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:40 - .
-[DEBUG] 2019-07-07 14:47:33 [main] SentanceParser:42 - It was popularised in the with the release of Letraset sheets containing Lorem Ipsum passages.
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 1
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 2
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 3
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 4
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 5
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 6
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 7
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 8
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 9
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 10
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 11
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 12
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 13
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 14
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 15
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 16
-[INFO ] 2019-07-07 14:47:33 [main] SymbolParser:26 - Count of created symbols: 1
-[DEBUG] 2019-07-07 14:47:33 [main] SymbolParser:27 - .
-[INFO ] 2019-07-07 14:47:33 [main] LexemeParser:48 - Count of created lexemes: 1
-[INFO ] 2019-07-07 14:47:33 [main] SentanceParser:49 - Count of created sentances: 1
-[DEBUG] 2019-07-07 14:47:33 [main] SentanceParser:42 - It has survived not only five centuries.
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 17
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 18
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 19
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 20
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 21
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 22
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 23
-[INFO ] 2019-07-07 14:47:33 [main] WordParser:26 - Count of created words: 24
-[INFO ] 2019-07-07 14:47:33 [main] SymbolParser:26 - Count of created symbols: 2
-[DEBUG] 2019-07-07 14:47:33 [main] SymbolParser:27 - .
-[INFO ] 2019-07-07 14:47:33 [main] LexemeParser:48 - Count of created lexemes: 2
-[INFO ] 2019-07-07 14:47:33 [main] SentanceParser:49 - Count of created sentances: 2
-[INFO ] 2019-07-07 14:47:33 [main] ParagraphParser:39 - Count of created paragraphs: 1
-[DEBUG] 2019-07-07 14:47:33 [main] Sentance:28 - centuries
-[DEBUG] 2019-07-07 14:47:33 [main] Sentance:28 - passages
-[DEBUG] 2019-07-07 14:47:33 [main] Sentance:28 - centuries
-[DEBUG] 2019-07-07 14:47:33 [main] Sentance:28 - passages
-[DEBUG] 2019-07-07 14:47:33 [main] ParagraphParserTest:73 - It has survived not only five centuries. It was popularised in the with the release of Letraset sheets containing Lorem Ipsum passages. 
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - I
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - w
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - a
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - p
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - o
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - p
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - u
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - l
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - a
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - r
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - i
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - d
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - i
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - n
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - h
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - w
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - i
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - h
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - h
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - r
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - l
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - a
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - o
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - f
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - L
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - r
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - a
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - h
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - c
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - o
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - n
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - a
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - i
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - n
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - i
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - n
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - g
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - L
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - o
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - r
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - m
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - I
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - p
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - u
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - m
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - p
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - a
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - a
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - g
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - .
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - I
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - h
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - a
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - u
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - r
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - v
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - i
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - v
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - d
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - n
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - o
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - o
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - n
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - l
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - y
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
-[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - f
+[INFO ] 2019-07-07 17:25:08 [main] App:46 - 3 paragraph: 
+[INFO ] 2019-07-07 17:25:08 [main] App:47 - It is a established fact that a reader will be of a page when looking at its layout. 
+[INFO ] 2019-07-07 17:25:08 [main] App:46 - 4 paragraph: 
+[INFO ] 2019-07-07 17:25:08 [main] App:47 - Bye. 
+[INFO ] 2019-07-07 17:25:08 [main] App:49 - Staring the sorting of sentence of every paragraph...
+[INFO ] 2019-07-07 17:25:08 [main] App:55 - Sorted paragraphs: 
+[INFO ] 2019-07-07 17:25:08 [main] App:56 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+[INFO ] 2019-07-07 17:25:08 [main] App:56 - It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Ipsum is that it has a more or less normal distribution of letters, as opposed to using Content here, content here', making it look like readable English. 
+[INFO ] 2019-07-07 17:25:08 [main] App:56 - It is a established fact that a reader will be of a page when looking at its layout. 
+[INFO ] 2019-07-07 17:25:08 [main] App:56 - Bye. 
+[INFO ] 2019-07-07 17:26:30 [main] App:30 - Enter the path of file to read from: 
+[INFO ] 2019-07-07 17:26:35 [main] App:41 - Data from the file: 
+[INFO ] 2019-07-07 17:26:35 [main] App:42 - Starting parsing from the paragraph parser...
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 1
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 2
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 3
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 4
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 5
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 6
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 7
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 8
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 9
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 10
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 11
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 12
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 13
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 14
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 15
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 16
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 17
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 18
+[INFO ] 2019-07-07 17:26:35 [main] SymbolParser:26 - Count of created symbols: 1
+[INFO ] 2019-07-07 17:26:35 [main] LexemeParser:48 - Count of created lexemes: 1
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 19
+[INFO ] 2019-07-07 17:26:35 [main] SymbolParser:26 - Count of created symbols: 2
+[INFO ] 2019-07-07 17:26:35 [main] LexemeParser:48 - Count of created lexemes: 2
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 20
+[INFO ] 2019-07-07 17:26:35 [main] SymbolParser:26 - Count of created symbols: 3
+[INFO ] 2019-07-07 17:26:35 [main] LexemeParser:48 - Count of created lexemes: 3
+[INFO ] 2019-07-07 17:26:35 [main] SentanceParser:48 - Count of created sentances: 1
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 21
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 22
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 23
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 24
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 25
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 26
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 27
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 28
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 29
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 30
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 31
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 32
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 33
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 34
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 35
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 36
+[INFO ] 2019-07-07 17:26:35 [main] SymbolParser:26 - Count of created symbols: 4
+[INFO ] 2019-07-07 17:26:35 [main] LexemeParser:48 - Count of created lexemes: 4
+[INFO ] 2019-07-07 17:26:35 [main] SentanceParser:48 - Count of created sentances: 2
+[INFO ] 2019-07-07 17:26:35 [main] ParagraphParser:39 - Count of created paragraphs: 1
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 37
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 38
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 39
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 40
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 41
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 42
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 43
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 44
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 45
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 46
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 47
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 48
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 49
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 50
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 51
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 52
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 53
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 54
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 55
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 56
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 57
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 58
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 59
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 60
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 61
+[INFO ] 2019-07-07 17:26:35 [main] SymbolParser:26 - Count of created symbols: 5
+[INFO ] 2019-07-07 17:26:35 [main] LexemeParser:48 - Count of created lexemes: 5
+[INFO ] 2019-07-07 17:26:35 [main] SentanceParser:48 - Count of created sentances: 3
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 62
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 63
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 64
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 65
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 66
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 67
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 68
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 69
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 70
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 71
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 72
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 73
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 74
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 75
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 76
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 77
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 78
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 79
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 80
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 81
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 82
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 83
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 84
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 85
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 86
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 87
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 88
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 89
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 90
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 91
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 92
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 93
+[INFO ] 2019-07-07 17:26:35 [main] SymbolParser:26 - Count of created symbols: 6
+[INFO ] 2019-07-07 17:26:35 [main] LexemeParser:48 - Count of created lexemes: 6
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 94
+[INFO ] 2019-07-07 17:26:35 [main] SymbolParser:26 - Count of created symbols: 7
+[INFO ] 2019-07-07 17:26:35 [main] LexemeParser:48 - Count of created lexemes: 7
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 95
+[INFO ] 2019-07-07 17:26:35 [main] SymbolParser:26 - Count of created symbols: 8
+[INFO ] 2019-07-07 17:26:35 [main] LexemeParser:48 - Count of created lexemes: 8
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 96
+[INFO ] 2019-07-07 17:26:35 [main] SymbolParser:26 - Count of created symbols: 9
+[INFO ] 2019-07-07 17:26:35 [main] LexemeParser:48 - Count of created lexemes: 9
+[INFO ] 2019-07-07 17:26:35 [main] SentanceParser:48 - Count of created sentances: 4
+[INFO ] 2019-07-07 17:26:35 [main] ParagraphParser:39 - Count of created paragraphs: 2
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 97
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 98
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 99
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 100
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 101
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 102
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 103
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 104
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 105
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 106
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 107
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 108
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 109
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 110
+[INFO ] 2019-07-07 17:26:35 [main] WordParser:26 - Count of created words: 111

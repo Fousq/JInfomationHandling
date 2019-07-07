@@ -3,6 +3,8 @@ package kz.zhanbolat.jinformation.action;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import kz.zhanbolat.jinformation.parser.WordParser;
+
 public class WordCounter {
 	private static Pattern pattern = Pattern.compile(WordParser.WORD_REGEX);
 	private static Matcher matcher;

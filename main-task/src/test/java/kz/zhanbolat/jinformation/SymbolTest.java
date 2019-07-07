@@ -12,8 +12,8 @@ import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import kz.zhanbolat.jinformation.action.SymbolParser;
 import kz.zhanbolat.jinformation.entity.TextComponent;
+import kz.zhanbolat.jinformation.parser.SymbolParser;
 
 public class SymbolTest {
 	private static Logger logger = LogManager.getLogger(SymbolTest.class);

@@ -25,7 +25,6 @@ public class Sentance implements TextComponent {
 			String str = textComponent.build();
 			if (textComponent instanceof Lexeme) {
 				String word = str.split("[\\.,'\\?!-]", 2)[0];
-				logger.debug(word);
 				int i;
 				if (str.endsWith(".") || str.endsWith("'") || 
 					str.endsWith("'.") || str.endsWith("',")) {

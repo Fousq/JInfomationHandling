@@ -1,4 +1,4 @@
-package kz.zhanbolat.jinformation.action;
+package kz.zhanbolat.jinformation.parser;
 
 import java.util.List;
 

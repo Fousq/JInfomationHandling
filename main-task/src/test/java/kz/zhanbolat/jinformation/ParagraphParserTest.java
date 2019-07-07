@@ -14,9 +14,9 @@ import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import kz.zhanbolat.jinformation.action.ParagraphParser;
 import kz.zhanbolat.jinformation.entity.Paragraph;
 import kz.zhanbolat.jinformation.entity.TextComponent;
+import kz.zhanbolat.jinformation.parser.ParagraphParser;
 import kz.zhanbolat.jinformation.sorter.SentanceSorter;
 
 public class ParagraphParserTest {
@@ -56,6 +56,7 @@ public class ParagraphParserTest {
 	}
 	
 	@Test
+	@Ignore
 	public void parseShouldWordCorrectly() {
 		List<TextComponent> paragraphs = parser.parse(text);
 		paragraphs.forEach(paragraph -> logger.debug(paragraph.build()));
@@ -69,6 +70,7 @@ public class ParagraphParserTest {
 		for (TextComponent textComponent : paragraphs) {
 			sortedParagraphs.add(new SentanceSorter().sort((Paragraph)textComponent));
 		}
+		paragraphs.forEach(paragraph -> logger.debug(paragraph.build()));
 		sortedParagraphs.forEach(paragraph -> logger.debug(paragraph.build()));
 		assertTrue(paragraphs.size() == sortedParagraphs.size());
 	}

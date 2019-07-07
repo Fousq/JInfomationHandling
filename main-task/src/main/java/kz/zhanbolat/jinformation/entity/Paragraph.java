@@ -2,10 +2,7 @@ package kz.zhanbolat.jinformation.entity;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
-
-import kz.zhanbolat.jinformation.comparator.SentanceComparator;
 
 public class Paragraph implements TextComponent {
 	private List<TextComponent> textComponents = new ArrayList<>();
@@ -21,7 +18,7 @@ public class Paragraph implements TextComponent {
 	public List<TextComponent> getTextComponents() {
 		return Collections.unmodifiableList(textComponents);
 	}
-
+	
 	@Override
 	public String build() {
 		StringBuilder builder = new StringBuilder();

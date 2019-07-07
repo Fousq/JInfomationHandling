@@ -12,9 +12,9 @@ import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import kz.zhanbolat.jinformation.action.SentanceParser;
 import kz.zhanbolat.jinformation.entity.Sentance;
 import kz.zhanbolat.jinformation.entity.TextComponent;
+import kz.zhanbolat.jinformation.parser.SentanceParser;
 
 public class SentanceTest {
 	private static Logger logger = LogManager.getLogger(Sentance.class);

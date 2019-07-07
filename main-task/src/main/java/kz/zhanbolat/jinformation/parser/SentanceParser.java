@@ -1,4 +1,4 @@
-package kz.zhanbolat.jinformation.action;
+package kz.zhanbolat.jinformation.parser;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -39,7 +39,6 @@ public class SentanceParser implements AbstractParser {
 		List<TextComponent> matched = new ArrayList<>();
 		while(matcher.find()) {
 			String foundedStr = matcher.group();
-			logger.debug(foundedStr);
 			Sentance sentance = new Sentance();
 			for (AbstractParser nextParser : nextParsers) {
 				for (TextComponent textComponent : nextParser.parse(foundedStr)) {
