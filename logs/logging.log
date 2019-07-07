@@ -1,25 +1,54 @@
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - s
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - i
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - o
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - n
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - s
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 -  
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - o
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - f
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 -  
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - L
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - o
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - r
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - e
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - m
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 -  
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - I
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - p
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - s
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - u
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - m
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - .
-[DEBUG] 2019-07-07 08:59:11 [main] SentanceParser:43 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-[DEBUG] 2019-07-07 08:59:11 [main] SentanceParser:43 - It was popularised in the with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:58 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:58 - It was popularised in the with the release of Letraset sheets containing Lorem Ipsum. passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum 
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - i
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - v
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 -  
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - c
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - n
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - t
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - u
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - r
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - i
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - e
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - s
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:40 - .
+[DEBUG] 2019-07-07 14:48:43 [main] SentanceParser:42 - It was popularised in the with the release of Letraset sheets containing Lorem Ipsum passages.
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 1
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 2
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 3
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 4
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 5
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 6
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 7
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 8
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 9
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 10
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 11
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 12
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 13
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 14
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 15
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 16
+[INFO ] 2019-07-07 14:48:43 [main] SymbolParser:26 - Count of created symbols: 1
+[DEBUG] 2019-07-07 14:48:43 [main] SymbolParser:27 - .
+[INFO ] 2019-07-07 14:48:43 [main] LexemeParser:48 - Count of created lexemes: 1
+[INFO ] 2019-07-07 14:48:43 [main] SentanceParser:49 - Count of created sentances: 1
+[DEBUG] 2019-07-07 14:48:43 [main] SentanceParser:42 - It has survived not only five centuries.
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 17
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 18
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 19
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 20
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 21
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 22
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 23
+[INFO ] 2019-07-07 14:48:43 [main] WordParser:26 - Count of created words: 24
+[INFO ] 2019-07-07 14:48:43 [main] SymbolParser:26 - Count of created symbols: 2
+[DEBUG] 2019-07-07 14:48:43 [main] SymbolParser:27 - .
+[INFO ] 2019-07-07 14:48:43 [main] LexemeParser:48 - Count of created lexemes: 2
+[INFO ] 2019-07-07 14:48:43 [main] SentanceParser:49 - Count of created sentances: 2
+[INFO ] 2019-07-07 14:48:43 [main] ParagraphParser:39 - Count of created paragraphs: 1
+[DEBUG] 2019-07-07 14:48:43 [main] Sentance:28 - centuries
+[DEBUG] 2019-07-07 14:48:43 [main] Sentance:28 - passages
+[DEBUG] 2019-07-07 14:48:43 [main] Sentance:28 - centuries
+[DEBUG] 2019-07-07 14:48:43 [main] Sentance:28 - passages
+[DEBUG] 2019-07-07 14:48:43 [main] ParagraphParserTest:73 - It has survived not only five centuries. It was popularised in the with the release of Letraset sheets containing Lorem Ipsum passages. 

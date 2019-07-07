@@ -10,13 +10,13 @@ import org.apache.logging.log4j.Logger;
 
 import kz.zhanbolat.jinformation.entity.Paragraph;
 import kz.zhanbolat.jinformation.entity.TextComponent;
-import kz.zhanbolat.jinformation.exception.ParserException;
 
 public class ParagraphParser implements AbstractParser {
 	private static Logger logger = LogManager.getLogger(ParagraphParser.class);
 	private final static String PARAGRAPH_REGEX = "^[A-Z].*\\.$";
 	private static Pattern pattern = Pattern.compile(PARAGRAPH_REGEX, Pattern.MULTILINE);
 	private static Matcher matcher;
+	private static int counter = 0;
 	private AbstractParser nextParser;
 	
 	public ParagraphParser() {
@@ -36,6 +36,7 @@ public class ParagraphParser implements AbstractParser {
 			for (TextComponent textComponent : nextParser.parse(matcher.group())) {
 				paragraph.add(textComponent);
 			}
+			logger.info("Count of created paragraphs: " + ++counter);
 			matched.add(paragraph);
 		}
 		return matched;

@@ -10,13 +10,13 @@ import org.apache.logging.log4j.Logger;
 
 import kz.zhanbolat.jinformation.entity.Lexeme;
 import kz.zhanbolat.jinformation.entity.TextComponent;
-import kz.zhanbolat.jinformation.exception.ParserException;
 
 public class LexemeParser implements AbstractParser {
 	private static Logger logger = LogManager.getLogger(LexemeParser.class);
-	private static final String LEXEME_REGEX = "\\w+\\b[,\\.\\?!-]";
+	private static final String LEXEME_REGEX = "'*\\w+(\\b[\\.,-\\?!']+)";
 	private static Pattern pattern = Pattern.compile(LEXEME_REGEX);
 	private static Matcher matcher;
+	private static int counter = 0;
 	private List<AbstractParser> nextParsers;
 	
 	public LexemeParser() {
@@ -45,6 +45,7 @@ public class LexemeParser implements AbstractParser {
 					lexeme.add(textComponent);
 				}
 			}
+			logger.info("Count of created lexemes: " + ++counter);
 			matched.add(lexeme);
 		}
 		return matched;

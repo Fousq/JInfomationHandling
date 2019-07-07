@@ -14,14 +14,6 @@ public class Lexeme implements TextComponent {
 		return textComponents.get(index);
 	}
 	
-	public void remove(int index) {
-		textComponents.remove(index);
-	}
-	
-	public void remove(TextComponent textComponent) {
-		textComponents.remove(textComponent);
-	}
-	
 	@Override
 	public String build() {
 		StringBuilder builder = new StringBuilder();

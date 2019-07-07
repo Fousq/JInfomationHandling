@@ -18,23 +18,22 @@ public class Sentance implements TextComponent {
 		return textComponents.get(index);
 	}
 	
-	public void remove(int index) {
-		textComponents.remove(index);
-	}
-	
-	public void remove(TextComponent textComponent) {
-		textComponents.remove(textComponent);
-	}
-	
 	@Override
 	public String build() {
 		StringBuilder builder = new StringBuilder();
 		for (TextComponent textComponent : textComponents) {
 			String str = textComponent.build();
 			if (textComponent instanceof Lexeme) {
-				String word = str.substring(0, str.length() - 2);
-				int i = builder.indexOf(word);
-				builder.replace(i, i + str.length(), str + " ");
+				String word = str.split("[\\.,'\\?!-]", 2)[0];
+				logger.debug(word);
+				int i;
+				if (str.endsWith(".") || str.endsWith("'") || 
+					str.endsWith("'.") || str.endsWith("',")) {
+					i = builder.lastIndexOf(word);
+				} else {
+					i = builder.indexOf(word);
+				}
+				builder.replace(i, i + word.length(), str);
 			} else {
 				builder.append(str);
 				builder.append(" ");

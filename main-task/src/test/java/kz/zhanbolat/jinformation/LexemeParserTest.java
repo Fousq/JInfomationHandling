@@ -15,7 +15,6 @@ import kz.zhanbolat.jinformation.action.LexemeParser;
 import kz.zhanbolat.jinformation.action.SymbolParser;
 import kz.zhanbolat.jinformation.action.WordParser;
 import kz.zhanbolat.jinformation.entity.TextComponent;
-import kz.zhanbolat.jinformation.exception.ParserException;
 
 public class LexemeParserTest {
 	private static Logger logger = LogManager.getLogger(LexemeParserTest.class);

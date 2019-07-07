@@ -4,20 +4,19 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Stream;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import kz.zhanbolat.jinformation.entity.Sentance;
 import kz.zhanbolat.jinformation.entity.TextComponent;
-import kz.zhanbolat.jinformation.exception.ParserException;
 
 public class SentanceParser implements AbstractParser {
 	private static Logger logger = LogManager.getLogger(SentanceParser.class);
 	private static final String SENTANCE_REGEX = "[A-Z][^.]*\\.";
 	private static Pattern pattern = Pattern.compile(SENTANCE_REGEX);
 	private static Matcher matcher;
+	private static int counter = 0;
 	private List<AbstractParser> nextParsers;
 	
 	public SentanceParser() {
@@ -47,6 +46,7 @@ public class SentanceParser implements AbstractParser {
 					sentance.add(textComponent);
 				}
 			}
+			logger.info("Count of created sentances: " + ++counter);
 			matched.add(sentance);
 		}
 		return matched;

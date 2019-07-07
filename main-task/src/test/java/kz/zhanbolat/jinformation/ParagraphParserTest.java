@@ -5,6 +5,7 @@ import static org.junit.Assert.assertTrue;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
@@ -14,7 +15,9 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 import kz.zhanbolat.jinformation.action.ParagraphParser;
+import kz.zhanbolat.jinformation.entity.Paragraph;
 import kz.zhanbolat.jinformation.entity.TextComponent;
+import kz.zhanbolat.jinformation.sorter.SentanceSorter;
 
 public class ParagraphParserTest {
 	private static Logger logger = LogManager.getLogger(ParagraphParserTest.class);
@@ -57,6 +60,17 @@ public class ParagraphParserTest {
 		List<TextComponent> paragraphs = parser.parse(text);
 		paragraphs.forEach(paragraph -> logger.debug(paragraph.build()));
 		assertTrue(paragraphs.size() != 0);
+	}
+	
+	@Test
+	public void sentanceComparatorTest() {
+		List<TextComponent> paragraphs = parser.parse(text);
+		List<TextComponent> sortedParagraphs = new ArrayList<>();
+		for (TextComponent textComponent : paragraphs) {
+			sortedParagraphs.add(new SentanceSorter().sort((Paragraph)textComponent));
+		}
+		sortedParagraphs.forEach(paragraph -> logger.debug(paragraph.build()));
+		assertTrue(paragraphs.size() == sortedParagraphs.size());
 	}
 	
 }

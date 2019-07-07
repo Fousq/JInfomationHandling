@@ -1,7 +1,11 @@
 package kz.zhanbolat.jinformation.entity;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
+
+import kz.zhanbolat.jinformation.comparator.SentanceComparator;
 
 public class Paragraph implements TextComponent {
 	private List<TextComponent> textComponents = new ArrayList<>();
@@ -14,14 +18,10 @@ public class Paragraph implements TextComponent {
 		return textComponents.get(index);
 	}
 	
-	public void remove(int index) {
-		textComponents.remove(index);
+	public List<TextComponent> getTextComponents() {
+		return Collections.unmodifiableList(textComponents);
 	}
-	
-	public void remove(TextComponent textComponent) {
-		textComponents.remove(textComponent);
-	}
-	
+
 	@Override
 	public String build() {
 		StringBuilder builder = new StringBuilder();
@@ -30,4 +30,5 @@ public class Paragraph implements TextComponent {
 		}
 		return builder.toString();
 	}
+	
 }
