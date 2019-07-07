@@ -12,19 +12,23 @@ import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import kz.zhanbolat.jinformation.action.SymbolParser;
+import kz.zhanbolat.jinformation.action.LexemeParser;
+import kz.zhanbolat.jinformation.action.SentanceParser;
+import kz.zhanbolat.jinformation.action.WordParser;
+import kz.zhanbolat.jinformation.entity.Sentance;
 import kz.zhanbolat.jinformation.entity.TextComponent;
+import kz.zhanbolat.jinformation.exception.ParserException;
 
-public class SymbolTest {
-	private static Logger logger = LogManager.getLogger(SymbolTest.class);
+public class SentanceTest {
+	private static Logger logger = LogManager.getLogger(Sentance.class);
 	private static String text;
-	private static SymbolParser parser;
+	private static SentanceParser parser;
 	
 	@BeforeClass
 	public static void init() {
-		parser = new SymbolParser();
+		parser = new SentanceParser();
 		try {
-			FileReader reader = new FileReader("data//test//SymbolTestFile.txt");
+			FileReader reader = new FileReader("data//test//SentanceTestFile.txt");
 			int i;
 			StringBuilder builder = new StringBuilder();
 			while((i = reader.read()) != -1) {
@@ -32,7 +36,7 @@ public class SymbolTest {
 				builder.append((char) i);
 			}
 			text = builder.toString();
-		} catch(IOException e) {
+		} catch (IOException e) {
 			logger.error("Error in reading from file.", e);
 			text = "";
 		}
@@ -40,17 +44,17 @@ public class SymbolTest {
 	
 	@Test
 	@Ignore
-	public void testRegEx() {
+	public void regexTest() {
 		List<String> matched = parser.getMatched(text);
 		logger.debug(matched);
 		assertTrue(matched.size() != 0);
 	}
 	
 	@Test
-	public void parserShouldWorkCorrectly() {
-		List<TextComponent> symbols = parser.parse(text);
-		symbols.forEach(symbol -> logger.debug(symbol.build()));
-		assertTrue(symbols.size() != 0);
+	public void parseShouldWorkCorrectly() {
+		List<TextComponent> sentances = parser.parse(text);
+		assertTrue(sentances.size() != 0);
+		logger.debug(sentances.get(0).build());
 	}
 	
 }

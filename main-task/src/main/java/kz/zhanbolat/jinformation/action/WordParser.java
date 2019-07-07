@@ -9,13 +9,13 @@ import kz.zhanbolat.jinformation.entity.TextComponent;
 import kz.zhanbolat.jinformation.entity.Word;
 import kz.zhanbolat.jinformation.exception.ParserException;
 
-public class WordParser extends AbstractParser {
+public class WordParser implements AbstractParser {
 	private static final String WORD_REGEX = "\\w+";
 	private static Pattern pattern = Pattern.compile(WORD_REGEX);
 	private static Matcher matcher;
 	
 	@Override
-	public List<TextComponent> parse(String text) throws ParserException {
+	public List<TextComponent> parse(String text) {
 		matcher = pattern.matcher(text);
 		List<TextComponent> matched = new ArrayList<>();
 		while (matcher.find()) {

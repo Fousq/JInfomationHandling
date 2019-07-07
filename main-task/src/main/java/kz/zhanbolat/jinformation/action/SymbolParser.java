@@ -8,8 +8,8 @@ import java.util.regex.Pattern;
 import kz.zhanbolat.jinformation.entity.Symbol;
 import kz.zhanbolat.jinformation.entity.TextComponent;
 
-public class SymbolParser extends AbstractParser {
-	private static final String SYMBOL_REGEX = "[\\.\\s,\\?!-]";
+public class SymbolParser implements AbstractParser {
+	private static final String SYMBOL_REGEX = "[\\.,\\?!-]";
 	private static Pattern pattern = Pattern.compile(SYMBOL_REGEX);
 	private static Matcher matcher;
 	

@@ -9,22 +9,26 @@ import java.util.List;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.BeforeClass;
-import org.junit.Ignore;
 import org.junit.Test;
 
+import kz.zhanbolat.jinformation.action.LexemeParser;
 import kz.zhanbolat.jinformation.action.SymbolParser;
+import kz.zhanbolat.jinformation.action.WordParser;
 import kz.zhanbolat.jinformation.entity.TextComponent;
+import kz.zhanbolat.jinformation.exception.ParserException;
 
-public class SymbolTest {
-	private static Logger logger = LogManager.getLogger(SymbolTest.class);
+public class LexemeParserTest {
+	private static Logger logger = LogManager.getLogger(LexemeParserTest.class);
 	private static String text;
-	private static SymbolParser parser;
+	private static LexemeParser parser;
 	
 	@BeforeClass
 	public static void init() {
-		parser = new SymbolParser();
+		parser = new LexemeParser();
+		parser.add(new WordParser());
+		parser.add(new SymbolParser());
 		try {
-			FileReader reader = new FileReader("data//test//SymbolTestFile.txt");
+			FileReader reader = new FileReader("data//test//LexemeTestFile.txt");
 			int i;
 			StringBuilder builder = new StringBuilder();
 			while((i = reader.read()) != -1) {
@@ -39,7 +43,6 @@ public class SymbolTest {
 	}
 	
 	@Test
-	@Ignore
 	public void testRegEx() {
 		List<String> matched = parser.getMatched(text);
 		logger.debug(matched);
@@ -47,10 +50,10 @@ public class SymbolTest {
 	}
 	
 	@Test
-	public void parserShouldWorkCorrectly() {
-		List<TextComponent> symbols = parser.parse(text);
-		symbols.forEach(symbol -> logger.debug(symbol.build()));
-		assertTrue(symbols.size() != 0);
+	public void parseShouldWorkCorrectly() {
+		List<TextComponent> lexemes = parser.parse(text);
+		lexemes.forEach(lexeme -> logger.debug(lexeme.build()));
+		assertTrue(lexemes.size() != 0);
 	}
 	
 }

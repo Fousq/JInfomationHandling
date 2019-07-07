@@ -12,19 +12,19 @@ import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import kz.zhanbolat.jinformation.action.SymbolParser;
+import kz.zhanbolat.jinformation.action.WordParser;
 import kz.zhanbolat.jinformation.entity.TextComponent;
 
-public class SymbolTest {
-	private static Logger logger = LogManager.getLogger(SymbolTest.class);
+public class WordParserTest {
+	private static Logger logger = LogManager.getLogger(WordParserTest.class);
 	private static String text;
-	private static SymbolParser parser;
+	private static WordParser parser;
 	
 	@BeforeClass
 	public static void init() {
-		parser = new SymbolParser();
+		parser = new WordParser();
 		try {
-			FileReader reader = new FileReader("data//test//SymbolTestFile.txt");
+			FileReader reader = new FileReader("data//test//WordTestFile.txt");
 			int i;
 			StringBuilder builder = new StringBuilder();
 			while((i = reader.read()) != -1) {
@@ -48,9 +48,9 @@ public class SymbolTest {
 	
 	@Test
 	public void parserShouldWorkCorrectly() {
-		List<TextComponent> symbols = parser.parse(text);
-		symbols.forEach(symbol -> logger.debug(symbol.build()));
-		assertTrue(symbols.size() != 0);
+		List<TextComponent> words = parser.parse(text);
+		words.forEach(word -> logger.debug(word.build()));
+		assertTrue(words.size() != 0);
 	}
 	
 }

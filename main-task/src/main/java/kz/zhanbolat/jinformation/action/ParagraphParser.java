@@ -12,16 +12,23 @@ import kz.zhanbolat.jinformation.entity.Paragraph;
 import kz.zhanbolat.jinformation.entity.TextComponent;
 import kz.zhanbolat.jinformation.exception.ParserException;
 
-public class ParagraphParser extends AbstractParser {
+public class ParagraphParser implements AbstractParser {
 	private static Logger logger = LogManager.getLogger(ParagraphParser.class);
 	private final static String PARAGRAPH_REGEX = "^[A-Z].*\\.$";
 	private static Pattern pattern = Pattern.compile(PARAGRAPH_REGEX, Pattern.MULTILINE);
 	private static Matcher matcher;
+	private AbstractParser nextParser;
 	
-	public List<TextComponent> parse(String text) throws ParserException {
-		if (nextParser == null) {
-			throw new ParserException("Next parser is not setted.");
-		}
+	public ParagraphParser() {
+		super();
+		nextParser = new SentanceParser();
+	}
+	
+	public ParagraphParser(AbstractParser nextParser) {
+		this.nextParser = nextParser;
+	}
+	
+	public List<TextComponent> parse(String text) {
 		matcher = pattern.matcher(text);
 		List<TextComponent> matched = new ArrayList<>();
 		while(matcher.find()) {

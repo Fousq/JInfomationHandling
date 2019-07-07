@@ -1,58 +1,25 @@
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - c
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - c
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - j
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - d
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - l
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - o
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - s
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - t
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - a
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - r
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - e
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - b
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - u
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - m
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 - .
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:53 -  
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParser:41 - Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParser:41 - 
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParser:41 - 
-vero eos et accusam et justo duo dolores et ea rebum. 
-[DEBUG] 2019-07-03 14:04:05 [main] ParagraphParserTest:61 - [Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod, 
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At, 
-vero eos et accusam et justo duo dolores et ea rebum. ]
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - s
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - i
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - o
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - n
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - s
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 -  
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - o
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - f
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 -  
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - L
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - o
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - r
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - e
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - m
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 -  
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - I
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - p
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - s
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - u
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - m
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:37 - .
+[DEBUG] 2019-07-07 08:59:11 [main] SentanceParser:43 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+[DEBUG] 2019-07-07 08:59:11 [main] SentanceParser:43 - It was popularised in the with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:58 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+[DEBUG] 2019-07-07 08:59:11 [main] ParagraphParserTest:58 - It was popularised in the with the release of Letraset sheets containing Lorem Ipsum. passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum 
